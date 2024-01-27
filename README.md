@@ -3,7 +3,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind)](https://skillicons.dev)
 
 # Run Project
-1. Intall dependences
+1. Install dependences
 ```
 npm i
 ```
